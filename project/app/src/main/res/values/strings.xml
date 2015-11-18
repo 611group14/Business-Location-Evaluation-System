@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BLES</string>
+    <string name="BLES">Business Location Evaluation System</string>
+
+    <!-- Welcome Page -->
+    <string name="welcome_page_title">Welcome to use BLES</string>
+    <string name="welcome_page_button_start">START</string>
+    <string name="welcome_page_welcome_text">Want to find a place for your small business in Windsor? Try our Business Location Evaluation System!</string>
+
+    <!-- Main Map -->
+
+    <!-- Main Map User Instruction Messages -->
+    <string name="main_map_instr_pick_position">Tap and hold on a position where you want to start your business.</string>
+    <string name="main_map_instr_drag_marker">You can also drag the marker to somewhere else.</string>
+
+    <!-- Evaluation Details -->
+    <string name="eval_details_page_title">See what we have found for you</string>
+
+</resources>
